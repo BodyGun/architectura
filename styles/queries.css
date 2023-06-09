@@ -1,0 +1,226 @@
+@media (max-width: 700px){
+img {
+	width: 200px;
+}
+body {
+	font-size: 22px;
+	font-family: calibri;
+	padding: 0;
+	width: 100%;
+	margin: auto;
+}
+header div {
+background-color: #BDBDBD;
+width: 100%;
+height: 80px;
+}
+header p {
+display: flex;
+font-size: 10px;
+font-weight: bold;
+align-items: center;
+color: #3E3E3E;
+}
+header p {
+	float: right;
+	display: flex;
+font-size: 25px;
+font-weight: bold;
+align-items: center;
+color: #3E3E3E;
+}
+header img {
+	position: relative;
+	height: 60px;
+	top: 10px;
+}
+.navigation {
+margin: 0;
+display: flex;
+background-color: #D9D9D9;
+width: 100%;
+padding: 0;
+height: 50px;
+justify-content: center;
+align-items: center;
+}
+nav p {
+margin-right: 50px;
+font-size: 23px;
+}
+aside{
+	width: 45%;
+	padding-left: 10px;
+}
+.tower img {
+margin-top: 40px;
+height: 150px;
+border-radius: 20px;
+padding-left: 0px;
+}
+.tower p {
+width: 200px;
+text-align: justify;
+}
+.pro-odesu {
+	
+	width: 100%;
+	position: relative;
+}
+.pro-odesu h1 {
+display: flex;
+justify-content: center;
+width: 100%;
+}
+.pro-odesu p {
+width: 80%;
+justify-content: center;
+text-align: justify;
+margin: auto;
+}
+.street {
+	float: right;
+	margin-top: 40px;
+
+}
+.street img {
+height: 150px;
+border-radius: 20px;
+
+}
+.street p {
+width: 200px;
+text-align: justify;
+}
+.places h1 {
+	text-align: center;
+top: 12px;
+}
+.photos {
+text-align: center;
+margin-left: 25px;
+}
+.photo1 {
+border-radius: 20px;
+position: relative;
+width: 144px;
+height: 108px;
+bottom: 23px;
+left: 70px;
+}
+.photo2 {
+border-radius: 20px;
+width: 104px;
+height: 71px;
+position: relative;
+bottom: 158px;
+left: 80px;
+bottom: 60px;
+}
+.photo3 {
+border-radius: 20px;
+width: 182px;
+height: 138px;
+position: relative;
+margin-left: 40px;
+top: 7px;
+left: 50px;
+}
+.photo4 {
+	border-radius: 20px;
+width: 143px;
+height: 112px;
+position: relative;
+top: 105px;
+right: 415px;
+}
+.photo5 {
+	border-radius: 20px;
+width: 104px;
+height: 56px;
+position: relative;
+bottom: 80px;
+left: 113px;
+}
+.photo6 {
+border-radius: 20px;
+width: 162px;
+height: 83px;
+position: relative;
+left: 5px;
+top: 17px;
+}
+.photo7 {
+	border-radius: 20px;
+width: 123px;
+height: 83px;
+position: relative;
+top: 17px;
+left: 17px;
+}
+footer {
+margin-top: 40px;
+font-size: 17px;
+}
+.footer-text {
+background-color: #D9D9D9;
+display: flex;
+justify-content: space-between;
+
+}
+ul {
+	list-style: none;
+	margin-right: 40px; 
+}
+.footer-inf  {
+background-color: #BDBDBD;
+}
+.footer-inf p {
+color: #525252;
+}
+
+a {
+text-decoration: none;
+color: #3E3E3E;
+font-style: 0;
+}
+.general {
+	display: flex;
+	flex-direction: row;
+}
+.footer-infa {
+	margin: 0;
+}
+.places {
+	margin-top: 100px;
+}
+.text-photo img {
+	display: flex;
+	height: 100px;
+	width: 45%;
+}
+.marazliivska img {
+	width: 45%;
+	height: 200px;
+}
+.text-spurudonivska img {
+	width: 45%;
+	height: 200px;
+}
+.ways {
+	display: flex;
+	justify-content: center;
+}
+.restavracia-odesy {
+	display: flex;
+	justify-content: center;
+}
+.photos2 img{
+	width: 30%;
+	height: 100px;
+	margin: auto;
+}
+main {
+	padding: 2px;
+}
+}
